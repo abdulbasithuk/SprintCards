@@ -1,1 +1,1 @@
-## Print sprint cards from JIIRA 
+## Print sprint cards from JIIRA
